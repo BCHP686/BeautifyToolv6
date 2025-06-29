@@ -1,0 +1,10 @@
+chmod +x /data/user/0/com.termux/files/home/script/块
+chmod +x /data/user/0/com.termux/files/home/script/非
+chmod +x /data/user/0/com.termux/files/home/script/quickbms
+chmod +x /data/user/0/com.termux/files/home/script/解包.bms
+chmod +x /data/user/0/com.termux/files/home/script/打包.bms
+chmod +x /data/user/0/com.termux/files/home/script/urpack
+chmod +x /data/user/0/com.termux/files/home/script/paks
+chmod +x /data/user/0/com.termux/files/home/script/yun
+chmod +x bcv6云端
+python bcv6云端
